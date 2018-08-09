@@ -1,6 +1,6 @@
 # person.rb
-class class Dog
+class Person
 end
-fido = Dog.new 
-snoopy = Dog.new
-lassie = Dog.new
+fido = Person.new 
+snoopy = Person.new
+lassie = Person.new
