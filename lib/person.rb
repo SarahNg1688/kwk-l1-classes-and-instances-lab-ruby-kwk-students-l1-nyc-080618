@@ -1,6 +1,6 @@
 # person.rb
 class Person
 end
-fido = Person.new 
-snoopy = Person.new
-lassie = Person.new
+adele_goldberg = Person.new 
+alan_kay = Person.new
+
